@@ -1,0 +1,813 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2020-12-03T00:39:01-05:00",
+  "results": {
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "bestsellers_date": "2020-11-28",
+    "published_date": "2020-12-13",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2020-12-06",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524763160",
+        "primary_isbn13": "9781524763169",
+        "publisher": "Crown",
+        "description": "In the first volume of his presidential memoirs, Barack Obama offers personal reflections on his formative years and pivotal moments through his first term.",
+        "price": 18.00,
+        "type": "Autobiography",
+        "title": "A PROMISED LAND",
+        "author": "Barack Obama",
+        "contributor": "by Barack Obama",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781524763169.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1524763160?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524763160",
+            "isbn13": "9781524763169"
+          },
+          {
+            "isbn10": "1524763187",
+            "isbn13": "9781524763183"
+          },
+          {
+            "isbn10": "0525633715",
+            "isbn13": "9780525633716"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1524763160?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=A+PROMISED+LAND&author=Barack+Obama"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524763169"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BPROMISED%2BLAND%2FBarack%2BObama%2F9781524763169"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781524763169"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781524763169?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/945a5dfb-d1e6-53f2-95e2-ed6ffe3c5052"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593139135",
+        "primary_isbn13": "9780593139134",
+        "publisher": "Crown",
+        "description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+        "price": 40,
+        "type": "Nonfiction",
+        "title": "GREENLIGHTS",
+        "author": "Matthew McConaughey",
+        "contributor": "by Matthew McConaughey",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780593139134.jpg",
+        "book_image_width": 392,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593139135?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593139135",
+            "isbn13": "9780593139134"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593139135?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=GREENLIGHTS&author=Matthew+McConaughey"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593139134"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGREENLIGHTS%2FMatthew%2BMcConaughey%2F9780593139134"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593139134"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9780593139134?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/a13e8e1e-0fdd-5551-925b-d89690f4eb37"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1797205099",
+        "primary_isbn13": "9781797205090",
+        "publisher": "Chronicle",
+        "description": "The country music icon offers insights on 175 of her songs.",
+        "price": 25.00,
+        "type": "Autobiography",
+        "title": "DOLLY PARTON, SONGTELLER",
+        "author": "Dolly Parton and Robert K Oermann",
+        "contributor": "by Dolly Parton and Robert K. Oermann",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781797205090.jpg",
+        "book_image_width": 379,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1797205099?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1797205099",
+            "isbn13": "9781797205090"
+          },
+          {
+            "isbn10": "1797208381",
+            "isbn13": "9781797208381"
+          },
+          {
+            "isbn10": "1705000371",
+            "isbn13": "9781705000373"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1797205099?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=DOLLY+PARTON%2C+SONGTELLER&author=Dolly+Parton+and+Robert+K+Oermann"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781797205090"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDOLLY%2BPARTON%252C%2BSONGTELLER%2FDolly%2BParton%2Band%2BRobert%2BK%2BOermann%2F9781797205090"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781797205090"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781797205090?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/bb6cd678-2cf9-5a02-8da8-3b81b49bc657"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 6,
+        "weeks_on_list": 87,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524763136",
+        "primary_isbn13": "9781524763138",
+        "publisher": "Crown",
+        "description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband’s political ascent.",
+        "price": 11.00,
+        "type": "Autobiography",
+        "title": "BECOMING",
+        "author": "Michelle Obama",
+        "contributor": "by Michelle Obama",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781524763138.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2018/12/06/books/review/michelle-obama-becoming-memoir.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524763136",
+            "isbn13": "9781524763138"
+          },
+          {
+            "isbn10": "0525633677",
+            "isbn13": "9780525633679"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=BECOMING&author=Michelle+Obama"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524763138"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBECOMING%2FMichelle%2BObama%2F9781524763138"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781524763138"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781524763138?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/2892bc2e-4ad3-5e0a-bc6e-d2cd983c3c52"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063046547",
+        "primary_isbn13": "9780063046542",
+        "publisher": "Broadside",
+        "description": "The Fox News host and former combat veteran interviews soldiers about the different kinds of battles they encountered.",
+        "price": 30,
+        "type": "Biography",
+        "title": "MODERN WARRIORS",
+        "author": "Pete Hegseth",
+        "contributor": "by Pete Hegseth",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780063046542.jpg",
+        "book_image_width": 333,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0063046547?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063046547",
+            "isbn13": "9780063046542"
+          },
+          {
+            "isbn10": "0063046563",
+            "isbn13": "9780063046566"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063046547?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=MODERN+WARRIORS&author=Pete+Hegseth"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063046542"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMODERN%2BWARRIORS%2FPete%2BHegseth%2F9780063046542"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780063046542"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9780063046542?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/4c9b9019-a78e-55a1-ad9c-c3bf8b84efb5"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 4,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250265614",
+        "primary_isbn13": "9781250265616",
+        "publisher": "Flatiron",
+        "description": "The actor discusses the challenges he has faced with Parkinson’s disease and other setbacks that caused him to reassess his outlook.",
+        "price": 29.99,
+        "type": "Autobiography",
+        "title": "NO TIME LIKE THE FUTURE",
+        "author": "Michael J Fox",
+        "contributor": "by Michael J. Fox",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781250265616.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250265614?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250265614",
+            "isbn13": "9781250265616"
+          },
+          {
+            "isbn10": "1432884328",
+            "isbn13": "9781432884321"
+          },
+          {
+            "isbn10": "1250265622",
+            "isbn13": "9781250265623"
+          },
+          {
+            "isbn10": "1250771528",
+            "isbn13": "9781250771520"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250265614?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=NO+TIME+LIKE+THE+FUTURE&author=Michael+J+Fox"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250265616"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNO%2BTIME%2BLIKE%2BTHE%2BFUTURE%2FMichael%2BJ%2BFox%2F9781250265616"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250265616"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781250265616?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/a56ddb39-24ed-562c-9034-4c224eb13ff3"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 7,
+        "weeks_on_list": 17,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593230256",
+        "primary_isbn13": "9780593230251",
+        "publisher": "Random House",
+        "description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+        "price": 19.99,
+        "type": "Nonfiction",
+        "title": "CASTE",
+        "author": "Isabel Wilkerson",
+        "contributor": "by Isabel Wilkerson",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780593230251.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0593230256?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593230256",
+            "isbn13": "9780593230251"
+          },
+          {
+            "isbn10": "0593241460",
+            "isbn13": "9780593241462"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0593230256?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=CASTE&author=Isabel+Wilkerson"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593230251"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCASTE%2FIsabel%2BWilkerson%2F9780593230251"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780593230251"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9780593230251?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/970c3c3d-b5b3-5cf4-bd49-fa2e441babb7"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062950495",
+        "primary_isbn13": "9780062950499",
+        "publisher": "Harper",
+        "description": "The MSNBC host and former congressman describes the struggles Harry Truman faced before and during his time as president.",
+        "price": 15.50,
+        "type": "Biography",
+        "title": "SAVING FREEDOM",
+        "author": "Joe Scarborough",
+        "contributor": "by Joe Scarborough",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062950499.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0062950495?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062950495",
+            "isbn13": "9780062950499"
+          },
+          {
+            "isbn10": "0062950517",
+            "isbn13": "9780062950512"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0062950495?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=SAVING+FREEDOM&author=Joe+Scarborough"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062950499"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSAVING%2BFREEDOM%2FJoe%2BScarborough%2F9780062950499"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780062950499"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9780062950499?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6648d13c-c65e-59cf-8a00-aceac7b8f830"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 38,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984801252",
+        "primary_isbn13": "9781984801258",
+        "publisher": "Dial",
+        "description": "The activist and public speaker describes her journey of listening to her inner voice.",
+        "price": 22.00,
+        "type": "Autobiography",
+        "title": "UNTAMED",
+        "author": "Glennon Doyle",
+        "contributor": "by Glennon Doyle",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781984801258.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1984801252?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984801252",
+            "isbn13": "9781984801258"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984801252?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=UNTAMED&author=Glennon+Doyle"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984801258"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNTAMED%2FGlennon%2BDoyle%2F9781984801258"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781984801258"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781984801258?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/fbeeab6c-34bb-5c38-8f27-9fc3ced2ff01"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 0,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982112697",
+        "primary_isbn13": "9781982112691",
+        "publisher": "Simon & Schuster",
+        "description": "The comedian shares material he collected in an accordion folder over the last 45 years.",
+        "price": 8.99,
+        "type": "Nonfiction",
+        "title": "IS THIS ANYTHING?",
+        "author": "Jerry Seinfeld",
+        "contributor": "by Jerry Seinfeld",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781982112691.jpg",
+        "book_image_width": 338,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1982112697?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982112697",
+            "isbn13": "9781982112691"
+          },
+          {
+            "isbn10": "1797113054",
+            "isbn13": "9781797113050"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1982112697?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=IS+THIS+ANYTHING%3F&author=Jerry+Seinfeld"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982112691"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIS%2BTHIS%2BANYTHING%253F%2FJerry%2BSeinfeld%2F9781982112691"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781982112691"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781982112691?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/cff78ce3-5632-5607-950d-bdc0054cdb4e"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 15,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250114292",
+        "primary_isbn13": "9781250114297",
+        "publisher": "St. Martin's",
+        "description": "Photos and stories of people from over 40 countries collected by the creator of “Humans of New York.”",
+        "price": 13.13,
+        "type": "Nonfiction",
+        "title": "HUMANS",
+        "author": "Brandon Stanton",
+        "contributor": "by Brandon Stanton",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781250114297.jpg",
+        "book_image_width": 396,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1250114292?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "1250114292",
+            "isbn13": "9781250114297"
+          },
+          {
+            "isbn10": "1250276160",
+            "isbn13": "9781250275226"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1250114292?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=HUMANS&author=Brandon+Stanton"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250114297"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHUMANS%2FBrandon%2BStanton%2F9781250114297"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9781250114297"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9781250114297?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/5454b7e6-c652-5a35-9796-9d3381fc9d33"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 0,
+        "weeks_on_list": 88,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062300555",
+        "primary_isbn13": "9780062300553",
+        "publisher": "HarperCollins",
+        "description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+        "price": 24.24,
+        "type": "Biography",
+        "title": "HILLBILLY ELEGY",
+        "author": "JD Vance",
+        "contributor": "by J.D. Vance",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062300560.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "http://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062300547",
+            "isbn13": "9780062300546"
+          },
+          {
+            "isbn10": "0062300563",
+            "isbn13": "9780062300560"
+          },
+          {
+            "isbn10": "141049666X",
+            "isbn13": "9781410496669"
+          },
+          {
+            "isbn10": "0062300555",
+            "isbn13": "9780062300553"
+          },
+          {
+            "isbn10": "1432840002",
+            "isbn13": "9781432840006"
+          },
+          {
+            "isbn10": "0062477528",
+            "isbn13": "9780062477521"
+          },
+          {
+            "isbn10": "0062872257",
+            "isbn13": "9780062872258"
+          },
+          {
+            "isbn10": "0063045982",
+            "isbn13": "9780063045989"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=HILLBILLY+ELEGY&author=JD+Vance"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062300553"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHILLBILLY%2BELEGY%2FJD%2BVance%2F9780062300553"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://bookshop.org/a/3546/9780062300553"
+          },
+          {
+            "name": "Indiebound",
+            "url": "https://www.indiebound.org/book/9780062300553?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/076b0d8c-4c0a-5755-806b-5b7be09cbc12"
+      }
+    ],
+    "corrections": []
+  }
+}
